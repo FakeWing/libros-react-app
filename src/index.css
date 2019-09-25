@@ -5,9 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #667;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.frm{
+  font-weight: bolder;
+  max-height: 30px;
+}
+
+.input-group-text{
+  background-color: gold;
+  border-color:black;
+  min-width: 140px;
+  min-height:30px;
+  font-weight: bolder;
 }
